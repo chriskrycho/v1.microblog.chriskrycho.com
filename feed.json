@@ -1,0 +1,106 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "atomic",
+	"icon": "https://micro.blog/chriskrycho/avatar.jpg",
+	"home_page_url": "https://v1.microblog.chriskrycho.com/",
+	"feed_url": "https://v1.microblog.chriskrycho.com/feed.json",
+	"items": [
+		
+			{
+				"id": "http://chriskrycho.micro.blog/2023/01/07/just-published-a.html",
+				
+				"content_html": "<p>Just published: a note on how lovely it is to have (more or less) what I always said I wanted back in high school and college—<a href=\"https://v5.chriskrycho.com/journal/an-orchestra-in-my-pocket/\">an orchestra in my pocket</a>.</p>\n",
+				"content_text": "Just published: a note on how lovely it is to have (more or less) what I always said I wanted back in high school and college—[an orchestra in my pocket](https://v5.chriskrycho.com/journal/an-orchestra-in-my-pocket/).\n",
+				"date_published": "2023-01-07T17:43:58-07:00",
+				"url": "https://v1.microblog.chriskrycho.com/2023/01/07/just-published-a.html"
+			},
+			{
+				"id": "http://chriskrycho.micro.blog/2023/01/07/while-obsidians-graph.html",
+				
+				"content_html": "<p>While Obsidian&rsquo;s graph view is pretty, and you <em>can</em> make it more useful than the baseline,<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup> fundamentally, if you make heavy use of links, you just end up with a mess like this. 😂</p>\n<!-- raw HTML omitted -->\n<section class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\" role=\"doc-endnote\">\n<p>Local graphs are more useful than the global graph; filters can be illuminating, etc.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</section>\n",
+				"content_text": "While Obsidian's graph view is pretty, and you *can* make it more useful than the baseline,[^1] fundamentally, if you make heavy use of links, you just end up with a mess like this. 😂 \n\n[^1]: Local graphs are more useful than the global graph; filters can be illuminating, etc.\n\n<img src=\"uploads/2023/40f6443e72.png\" width=\"595\" height=\"600\" alt=\"A screenshot of an Obsidian notes graph with highly clustered and dense links.\">\n",
+				"date_published": "2023-01-07T09:54:34-07:00",
+				"url": "https://v1.microblog.chriskrycho.com/2023/01/07/while-obsidians-graph.html"
+			},
+			{
+				"id": "http://chriskrycho.micro.blog/2023/01/06/im-sort-of.html",
+				
+				"content_html": "<p>I’m sort of unreasonably delighted—which is, to be clear, the best kind of delighted—by the color of this new <a href=\"https://www.notneutral.com\">NotNeutral</a> mug (their <a href=\"https://www.notneutral.com/lino-coffee-mug.html\">10oz Lino</a> is just the best) which arrived today. 🤩</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I’m sort of unreasonably delighted—which is, to be clear, the best kind of delighted—by the color of this new [NotNeutral](https://www.notneutral.com) mug (their [10oz Lino](https://www.notneutral.com/lino-coffee-mug.html) is just the best) which arrived today. 🤩\n\n<img src=\"uploads/2023/6f56210e47.jpg\" width=\"450\" height=\"600\" alt=\"An “ozone blue” coffee mug sitting in front of a MIDI keyboard, a MacBookPro, and a large display.\">\n",
+				"date_published": "2023-01-06T14:25:37-07:00",
+				"url": "https://v1.microblog.chriskrycho.com/2023/01/06/im-sort-of.html"
+			},
+			{
+				"id": "http://chriskrycho.micro.blog/2023/01/05/finally-able-to.html",
+				
+				"content_html": "<p>Finally able to spend some time with <a href=\"https://www.steinberg.net/dorico/\">Dorico</a> v4.3 and I love that in addition to all the feature improvements it landed, it also got some love in terms of just little bits of polish—e.g. the popovers are all just a little bit nicer-looking.</p>\n",
+				"content_text": "Finally able to spend some time with [Dorico](https://www.steinberg.net/dorico/) v4.3 and I love that in addition to all the feature improvements it landed, it also got some love in terms of just little bits of polish—e.g. the popovers are all just a little bit nicer-looking.\n",
+				"date_published": "2023-01-05T12:20:25-07:00",
+				"url": "https://v1.microblog.chriskrycho.com/2023/01/05/finally-able-to.html"
+			},
+			{
+				"id": "http://chriskrycho.micro.blog/2023/01/04/updated-my-note.html",
+				
+				"content_html": "<p>Updated <a href=\"https://v5.chriskrycho.com/journal/dorico-tip-solo-parts-in-string-sections/\">my note on doing solo lines in divisi parts in Dorico</a> this evening, after discovering a fairly key behavioral constraint!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Updated [my note on doing solo lines in divisi parts in Dorico](https://v5.chriskrycho.com/journal/dorico-tip-solo-parts-in-string-sections/) this evening, after discovering a fairly key behavioral constraint!\n\n<img src=\"uploads/2023/1117110c20.png\" width=\"600\" height=\"133\" alt=\"\">\n",
+				"date_published": "2023-01-04T21:47:00-07:00",
+				"url": "https://v1.microblog.chriskrycho.com/2023/01/04/updated-my-note.html"
+			},
+			{
+				"id": "http://chriskrycho.micro.blog/2023/01/04/just-published-a.html",
+				
+				"content_html": "<p>Just published <a href=\"https://v5.chriskrycho.com/journal/generative-work-and-productive-puttering/\">a new write-up</a> on the difference between doing things like “restructuring your notes system” (puttering, even if productive) and “actually working on the essay your notes are theoretically for” (generative work).</p>\n",
+				"content_text": "Just published [a new write-up](https://v5.chriskrycho.com/journal/generative-work-and-productive-puttering/) on the difference between doing things like “restructuring your notes system” (puttering, even if productive) and “actually working on the essay your notes are theoretically for” (generative work).\n",
+				"date_published": "2023-01-04T09:08:22-07:00",
+				"url": "https://v1.microblog.chriskrycho.com/2023/01/04/just-published-a.html"
+			},
+			{
+				"id": "http://chriskrycho.micro.blog/2023/01/03/as-mentioned-earlier.html",
+				
+				"content_html": "<p>As mentioned earlier, I’m quite bullish on <a href=\"https://readwise.io/i/chris4201u\">Readwise</a> and its Reader so far—but I have some pretty significant differences with the folks behind it philosophically… as I cover in <a href=\"https://readwise.io/reader/shared/01gnxbcjfm97fyn4jyeq4msq54/\">this Readwise Reader-annotated</a> version of their Reader manifesto. 😏</p>\n",
+				"content_text": "As mentioned earlier, I’m quite bullish on [Readwise](https://readwise.io/i/chris4201u) and its Reader so far—but I have some pretty significant differences with the folks behind it philosophically… as I cover in [this Readwise Reader-annotated](https://readwise.io/reader/shared/01gnxbcjfm97fyn4jyeq4msq54/) version of their Reader manifesto. 😏\n",
+				"date_published": "2023-01-03T20:50:15-07:00",
+				"url": "https://v1.microblog.chriskrycho.com/2023/01/03/as-mentioned-earlier.html"
+			},
+			{
+				"id": "http://chriskrycho.micro.blog/2023/01/03/pretty-strong-first.html",
+				
+				"content_html": "<p>Pretty strong first impressions here right out of the gate for <a href=\"https://readwise.io/i/chris4201u\">Readwise</a>—its <a href=\"https://readwise.io/obsidian_export\">Obsidian integration</a> in particular is pretty neat, and I think will solve an annoyance I have had for a <em>long</em> time with any “web clipping”/bookmarking system: its disconnect form my notes.</p>\n",
+				"content_text": "Pretty strong first impressions here right out of the gate for [Readwise](https://readwise.io/i/chris4201u)—its [Obsidian integration](https://readwise.io/obsidian_export) in particular is pretty neat, and I think will solve an annoyance I have had for a *long* time with any “web clipping”/bookmarking system: its disconnect form my notes.\n",
+				"date_published": "2023-01-03T11:13:53-07:00",
+				"url": "https://v1.microblog.chriskrycho.com/2023/01/03/pretty-strong-first.html"
+			},
+			{
+				"id": "http://chriskrycho.micro.blog/2023/01/03/the-one-thing.html",
+				
+				"content_html": "<p>The one thing I would <em>very</em> much like from <a href=\"https://help.kobo.com/hc/en-us/articles/360017763753-Use-the-Pocket-App-with-your-Kobo-eReader\">the Kobo–Pocket integration</a> is: the ability to use the Kobo highlighting to sync highlights to Pocket. (Or to save them locally!) Yes, that would require a Pocket subscription, but it would still be <em>excellent</em>.</p>\n",
+				"content_text": "The one thing I would *very* much like from [the Kobo–Pocket integration](https://help.kobo.com/hc/en-us/articles/360017763753-Use-the-Pocket-App-with-your-Kobo-eReader) is: the ability to use the Kobo highlighting to sync highlights to Pocket. (Or to save them locally!) Yes, that would require a Pocket subscription, but it would still be *excellent*.\n",
+				"date_published": "2023-01-03T09:38:58-07:00",
+				"url": "https://v1.microblog.chriskrycho.com/2023/01/03/the-one-thing.html"
+			},
+			{
+				"id": "http://chriskrycho.micro.blog/2023/01/02/currently-reading-human.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780525558613\">Human Compatible: Artificial Intelligence and the Problem of Control</a> by Stuart Russell 📚</p>\n<p>I&rsquo;ve been reading widely in this space for quite some time, but decided I need to brush up onn some of the <em>books</em> in the field, not just essays and blog posts.</p>\n",
+				"content_text": "Currently reading: [Human Compatible: Artificial Intelligence and the Problem of Control](https://micro.blog/books/9780525558613) by Stuart Russell 📚\n\nI've been reading widely in this space for quite some time, but decided I need to brush up onn some of the *books* in the field, not just essays and blog posts.\n",
+				"date_published": "2023-01-02T21:54:55-07:00",
+				"url": "https://v1.microblog.chriskrycho.com/2023/01/02/currently-reading-human.html"
+			},
+			{
+				"id": "http://chriskrycho.micro.blog/2023/01/02/one-thing-ive.html",
+				
+				"content_html": "<p>One thing I’ve thought about for the past few years: AFAICT <em>no one</em> clicks through the links I cross-post via RSS feed (of the shape <code>[Journal]: some title</code>). Should I do a little micro.blog “post” introducing and linking it instead? Curious what you good folks think.</p>\n",
+				"content_text": "One thing I’ve thought about for the past few years: AFAICT *no one* clicks through the links I cross-post via RSS feed (of the shape `[Journal]: some title`). Should I do a little micro.blog “post” introducing and linking it instead? Curious what you good folks think.\n",
+				"date_published": "2023-01-02T15:49:33-07:00",
+				"url": "https://v1.microblog.chriskrycho.com/2023/01/02/one-thing-ive.html"
+			},
+			{
+				"id": "http://chriskrycho.micro.blog/2023/01/02/i-believe-the.html",
+				
+				"content_html": "<p>I believe the normal first post on a new micro.blog is “Hello, world!” Or maybe that’s <em>just</em> the first program? Well, either way, here I am: new microblog, hosted on micro.blog.</p>\n",
+				"content_text": "I believe the normal first post on a new micro.blog is “Hello, world!” Or maybe that’s *just* the first program? Well, either way, here I am: new microblog, hosted on micro.blog.\n\n",
+				"date_published": "2023-01-02T14:36:27-07:00",
+				"url": "https://v1.microblog.chriskrycho.com/2023/01/02/i-believe-the.html"
+			}
+	]
+}

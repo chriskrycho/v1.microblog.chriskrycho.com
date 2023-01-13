@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://chriskrycho.micro.blog/2023/01/12/my-wife-ordered.html",
+				
+				"content_html": "<p>My wife ordered me the LEGO Saturn V model for a Christmas present, and it finally arrived yesterday. Doing this is: unreasonably fun.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "My wife ordered me the LEGO Saturn V model for a Christmas present, and it finally arrived yesterday. Doing this is: unreasonably fun.\n\n<img src=\"uploads/2023/dfc3ec006d.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/08e208e29f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-01-12T08:40:37-07:00",
+				"url": "https://v1.microblog.chriskrycho.com/2023/01/12/my-wife-ordered.html"
+			},
+			{
+				"id": "http://chriskrycho.micro.blog/2023/01/10/bloggedsome-initial-thoughts.html",
+				
+				"content_html": "<p>Blogged—<a href=\"https://v5.chriskrycho.com/journal/some-notes-on-elicit/\">some initial thoughts</a> on <a href=\"https://ought.org\">Ought</a>&rsquo;s <a href=\"https://elicit.org\">Elicit</a> “AI Research Assistant” tool, which I spent some time with this evening. If that makes your skepticism radar spike, we’re the same, but I have pretty positive impressions, courtesy of <em>wise</em> UI design choices. <a href=\"https://v5.chriskrycho.com/journal/some-notes-on-elicit/\">Initial Notes on Elicit</a></p>\n",
+				"content_text": "Blogged—[some initial thoughts][p] on [Ought](https://ought.org)'s [Elicit](https://elicit.org) “AI Research Assistant” tool, which I spent some time with this evening. If that makes your skepticism radar spike, we’re the same, but I have pretty positive impressions, courtesy of *wise* UI design choices. [Initial Notes on Elicit][p]\n\n[p]: https://v5.chriskrycho.com/journal/some-notes-on-elicit/\n",
+				"date_published": "2023-01-10T19:30:04-07:00",
+				"url": "https://v1.microblog.chriskrycho.com/2023/01/10/bloggedsome-initial-thoughts.html"
+			},
+			{
+				"id": "http://chriskrycho.micro.blog/2023/01/10/i-decided-i.html",
+				
+				"content_html": "<p>I decided I want out of the game of running my own servers for websites this year, and I’m almost done—I’m moving jaimiekrycho.com to managed WordPress hosting. Real talk: finding a host to do this in a way I trust and which doesn’t make me 🤯 at the cost is… hard.</p>\n",
+				"content_text": "I decided I want out of the game of running my own servers for websites this year, and I’m almost done—I’m moving jaimiekrycho.com to managed WordPress hosting. Real talk: finding a host to do this in a way I trust and which doesn’t make me 🤯 at the cost is… hard.\n",
+				"date_published": "2023-01-10T08:19:07-07:00",
+				"url": "https://v1.microblog.chriskrycho.com/2023/01/10/i-decided-i.html"
+			},
+			{
+				"id": "http://chriskrycho.micro.blog/2023/01/09/it-only-took.html",
+				
+				"content_html": "<p>It only took me five years (or was it six?) to finish migrating all of my old, no-longer-updated sites out of the shared hosting I used to use (…so, you know, just an extra $300 I paid over the years 🙃) but as of today I have finally shut that account down. Feels good!</p>\n",
+				"content_text": "It only took me five years (or was it six?) to finish migrating all of my old, no-longer-updated sites out of the shared hosting I used to use (…so, you know, just an extra $300 I paid over the years 🙃) but as of today I have finally shut that account down. Feels good!\n",
+				"date_published": "2023-01-09T15:00:57-07:00",
+				"url": "https://v1.microblog.chriskrycho.com/2023/01/09/it-only-took.html"
+			},
+			{
+				"id": "http://chriskrycho.micro.blog/2023/01/09/blogged-because-i.html",
+				
+				"content_html": "<p>Blogged, because I got <em>extremely</em> annoyed thinking about how this doesn&rsquo;t exist after my long run yesterday: <a href=\"https://v5.chriskrycho.com/journal/meal-tracking-for-athletes/\">Product Idea: Meal Tracking for Athletes</a>. So annoyed. 😂</p>\n",
+				"content_text": "Blogged, because I got *extremely* annoyed thinking about how this doesn't exist after my long run yesterday: [Product Idea: Meal Tracking for Athletes](https://v5.chriskrycho.com/journal/meal-tracking-for-athletes/). So annoyed. 😂 \n\n",
+				"date_published": "2023-01-09T14:40:39-07:00",
+				"url": "https://v1.microblog.chriskrycho.com/2023/01/09/blogged-because-i.html"
+			},
+			{
 				"id": "http://chriskrycho.micro.blog/2023/01/07/just-published-a.html",
 				
 				"content_html": "<p>Just published: a note on how lovely it is to have (more or less) what I always said I wanted back in high school and college—<a href=\"https://v5.chriskrycho.com/journal/an-orchestra-in-my-pocket/\">an orchestra in my pocket</a>.</p>\n",

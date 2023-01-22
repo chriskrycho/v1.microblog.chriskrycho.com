@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://chriskrycho.micro.blog/2023/01/22/finished-reading-human.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780525558613\"><em>Human Compatible: Artificial Intelligence and the Problem of Control</em></a> by Stuart Russell 📚 – I’ll likely have more to say about this in the weeks ahead, but for now I’ll summarize with two thoughts:</p>\n<ol>\n<li>The problems matter.</li>\n<li>We need non-utilitarians going after this.</li>\n</ol>\n",
+				"content_text": "Finished reading: [_Human Compatible: Artificial Intelligence and the Problem of Control_](https://micro.blog/books/9780525558613) by Stuart Russell 📚 – I’ll likely have more to say about this in the weeks ahead, but for now I’ll summarize with two thoughts:\r\n\r\n1. The problems matter.\r\n2. We need non-utilitarians going after this.\r\n",
+				"date_published": "2023-01-22T10:56:57-07:00",
+				"url": "https://v1.microblog.chriskrycho.com/2023/01/22/finished-reading-human.html"
+			},
+			{
+				"id": "http://chriskrycho.micro.blog/2023/01/16/bloggedbecause-id-love.html",
+				
+				"content_html": "<p>Blogged—because I’d love for the process of building a training plan for running and cycling to respect how human lives actually work, which is to say: days are way more fungible than weeks (at least for an amateur like me)! <a href=\"https://v5.chriskrycho.com/journal/feature-idea-week-level-training-plans/\">Feature Idea: Week-Level Smart Training Plans</a></p>\n",
+				"content_text": "Blogged—because I’d love for the process of building a training plan for running and cycling to respect how human lives actually work, which is to say: days are way more fungible than weeks (at least for an amateur like me)! [Feature Idea: Week-Level Smart Training Plans](https://v5.chriskrycho.com/journal/feature-idea-week-level-training-plans/)\n",
+				"date_published": "2023-01-16T08:37:46-07:00",
+				"url": "https://v1.microblog.chriskrycho.com/2023/01/16/bloggedbecause-id-love.html"
+			},
+			{
+				"id": "http://chriskrycho.micro.blog/2023/01/13/whoa-strava-informs.html",
+				
+				"content_html": "<p>Whoa: Strava informs me that last year I crossed the 10,000 lifetime miles run mark, as well as the 1,500 lifetime hours mark—and I’m probably a month’s training away from crossing 500,000 feet of lifetime climbing on my runs. 🤯 🏃🏻‍♂️</p>\n",
+				"content_text": "Whoa: Strava informs me that last year I crossed the 10,000 lifetime miles run mark, as well as the 1,500 lifetime hours mark—and I’m probably a month’s training away from crossing 500,000 feet of lifetime climbing on my runs. 🤯 🏃🏻‍♂️\n",
+				"date_published": "2023-01-13T14:04:50-07:00",
+				"url": "https://v1.microblog.chriskrycho.com/2023/01/13/whoa-strava-informs.html"
+			},
+			{
+				"id": "http://chriskrycho.micro.blog/2023/01/13/i-am-trying.html",
+				
+				"content_html": "<p>I am trying something out: some <a href=\"https://v5.chriskrycho.com/journal/blog-gardening-in-public/\">Blog-Gardening in Public</a>, i.e. working-in-public on (some) of my bigger essays and idea-pieces. I don&rsquo;t know of many folks doing things like this, but I hope to help normalize it, because it seems good! More thoughts <a href=\"https://v5.chriskrycho.com/journal/blog-gardening-in-public/\">here</a>.</p>\n",
+				"content_text": "I am trying something out: some [Blog-Gardening in Public](https://v5.chriskrycho.com/journal/blog-gardening-in-public/), i.e. working-in-public on (some) of my bigger essays and idea-pieces. I don't know of many folks doing things like this, but I hope to help normalize it, because it seems good! More thoughts [here](https://v5.chriskrycho.com/journal/blog-gardening-in-public/).\n",
+				"date_published": "2023-01-13T12:16:35-07:00",
+				"url": "https://v1.microblog.chriskrycho.com/2023/01/13/i-am-trying.html"
+			},
+			{
+				"id": "http://chriskrycho.micro.blog/2023/01/13/just-updated-my.html",
+				
+				"content_html": "<p>Just updated my website to make sure that, if you’re reading it <em>on the website</em>, all the things I’ve called out as “Note: …” blocks are also correctly identified as such to screen readers with <code>aria-role</code> and <code>aria-label</code>, and made it trivial to get right going forward. 🎉</p>\n",
+				"content_text": "Just updated my website to make sure that, if you’re reading it *on the website*, all the things I’ve called out as “Note: …” blocks are also correctly identified as such to screen readers with `aria-role` and `aria-label`, and made it trivial to get right going forward. 🎉\n",
+				"date_published": "2023-01-13T09:54:15-07:00",
+				"url": "https://v1.microblog.chriskrycho.com/2023/01/13/just-updated-my.html"
+			},
+			{
 				"id": "http://chriskrycho.micro.blog/2023/01/12/my-wife-ordered.html",
 				
 				"content_html": "<p>My wife ordered me the LEGO Saturn V model for a Christmas present, and it finally arrived yesterday. Doing this is: unreasonably fun.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",

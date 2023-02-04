@@ -7,6 +7,54 @@
 	"items": [
 		
 			{
+				"id": "http://chriskrycho.micro.blog/2023/02/04/so-apparently-the.html",
+				
+				"content_html": "<p>So <a href=\"https://www.dcrainmaker.com/2021/06/garmin-training-status-now-includes-zwift-trainerroad-the-sufferfest-and-tacx-app-workouts.html\">apparently</a> the way to get the <em>best</em> results from a mixed Garmin/Zwift/Strava setup is:</p>\n<ol>\n<li>Connect all your devices to Zwift.</li>\n<li><em>Don’t</em> actually start recording on your Garmin.</li>\n<li>Sync: Zwift → Garmin Connect → watch → Garmin Connect.</li>\n</ol>\n<p>Slightly bonkers, but… now at least I know.</p>\n",
+				"content_text": "So [apparently](https://www.dcrainmaker.com/2021/06/garmin-training-status-now-includes-zwift-trainerroad-the-sufferfest-and-tacx-app-workouts.html) the way to get the *best* results from a mixed Garmin/Zwift/Strava setup is:\n\n1. Connect all your devices to Zwift.\n2. *Don’t* actually start recording on your Garmin.\n3. Sync: Zwift → Garmin Connect → watch → Garmin Connect.\n\nSlightly bonkers, but… now at least I know.\n",
+				"date_published": "2023-02-04T11:18:29-07:00",
+				"url": "https://v1.microblog.chriskrycho.com/2023/02/04/so-apparently-the.html"
+			},
+			{
+				"id": "http://chriskrycho.micro.blog/2023/01/29/i-checked-what.html",
+				
+				"content_html": "<p>I checked what Apple would off for a trade-in if I decided to upgrade from M1 Max to M2 Max—more from sheer curiosity than any intent to do that; my current laptop is still phenomenal—and it&rsquo;s <em>shamefully</em> low: a $1,235 trade-in for a machine sold for ~$4,099 15 months ago? <em><strong>No.</strong></em></p>\n",
+				"content_text": "I checked what Apple would off for a trade-in if I decided to upgrade from M1 Max to M2 Max—more from sheer curiosity than any intent to do that; my current laptop is still phenomenal—and it's *shamefully* low: a $1,235 trade-in for a machine sold for ~$4,099 15 months ago? ***No.***\n",
+				"date_published": "2023-01-29T20:26:57-07:00",
+				"url": "https://v1.microblog.chriskrycho.com/2023/01/29/i-checked-what.html"
+			},
+			{
+				"id": "http://chriskrycho.micro.blog/2023/01/29/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780996049900\"><em>The Anglican Way</em></a> by Thomas McKenzie 📚 – an easy introduction to Anglican-ism for folks outside the tradition. Very little here was new to me (I have an M. Div. and the history classes were good!) but I&rsquo;d recommend it to curious or confused lay folk.</p>\n",
+				"content_text": "Finished reading: [_The Anglican Way_](https://micro.blog/books/9780996049900) by Thomas McKenzie 📚 – an easy introduction to Anglican-ism for folks outside the tradition. Very little here was new to me (I have an M. Div. and the history classes were good!) but I'd recommend it to curious or confused lay folk.\n",
+				"date_published": "2023-01-29T12:30:16-07:00",
+				"url": "https://v1.microblog.chriskrycho.com/2023/01/29/finished-reading-the.html"
+			},
+			{
+				"id": "http://chriskrycho.micro.blog/2023/01/28/finished-reading-tomorrow.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780735243354\"><em>Tomorrow, and Tomorrow, and Tomorrow</em></a> by Gabrielle Zevin 📚</p>\n<p>I have not read a lot of gooks in this genre/space of contemporary fiction about contemporary people—I tend to go in for nonfiction or sci-fi/fantasy. But I am glad I did: It is <em>quite good</em>.</p>\n",
+				"content_text": "Finished reading: [_Tomorrow, and Tomorrow, and Tomorrow_](https://micro.blog/books/9780735243354) by Gabrielle Zevin 📚\n\nI have not read a lot of gooks in this genre/space of contemporary fiction about contemporary people—I tend to go in for nonfiction or sci-fi/fantasy. But I am glad I did: It is *quite good*.\n",
+				"date_published": "2023-01-28T20:55:32-07:00",
+				"url": "https://v1.microblog.chriskrycho.com/2023/01/28/finished-reading-tomorrow.html"
+			},
+			{
+				"id": "http://chriskrycho.micro.blog/2023/01/28/it-strikes-me.html",
+				
+				"content_html": "<p>It strikes me: In the amount of time I&rsquo;ve spent working around quirks in my current static site generator engine plus the amount of time I&rsquo;ve spent <em>waiting around for it</em> because of its slow design and not-great data structure choices, I&rsquo;m quite sure I could have written my own.</p>\n<p>That isn’t to discredit the folks behind the tech I’m currently using (I didn’t name it apurpose!) so much as to affirm <a href=\"https://micro.blog/brandur\">@brandur</a>&rsquo;s point <a href=\"https://brandur.org/aws-intrinsic-static\">many years ago</a>:</p>\n<blockquote>\n<p>I’ve found that assembling my own static site generation script takes about the same amount of time as getting on-boarded with any of the major site generation frameworks. This isn’t as much a critique of them as it is a nod to the inevitability of any general-purpose project to expand in features until it takes a lot of documentation and false starts to get up to speed. Writing your own script may be a greater maintenance burden over the long run, but this is offset by the much improved flexibility that it gets you.</p>\n</blockquote>\n",
+				"content_text": "It strikes me: In the amount of time I've spent working around quirks in my current static site generator engine plus the amount of time I've spent *waiting around for it* because of its slow design and not-great data structure choices, I'm quite sure I could have written my own.\n\nThat isn’t to discredit the folks behind the tech I’m currently using (I didn’t name it apurpose!) so much as to affirm [@brandur](https://micro.blog/brandur)'s point [many years ago](https://brandur.org/aws-intrinsic-static):\n\n> I’ve found that assembling my own static site generation script takes about the same amount of time as getting on-boarded with any of the major site generation frameworks. This isn’t as much a critique of them as it is a nod to the inevitability of any general-purpose project to expand in features until it takes a lot of documentation and false starts to get up to speed. Writing your own script may be a greater maintenance burden over the long run, but this is offset by the much improved flexibility that it gets you.\n",
+				"date_published": "2023-01-28T17:01:44-07:00",
+				"url": "https://v1.microblog.chriskrycho.com/2023/01/28/it-strikes-me.html"
+			},
+			{
+				"id": "http://chriskrycho.micro.blog/2023/01/28/ugghggghhh-just-heard.html",
+				
+				"content_html": "<p>Ugghggghhh. Just heard back from the camera shop and my Sony α7R IV is going to have to have its whole main circuit board replaced, for not much less than a new α6400. 😣 The issue doesn’t seem to be widespread, so I just got hit by the vagaries of hardware failure. <em>«sigh»</em></p>\n",
+				"content_text": "Ugghggghhh. Just heard back from the camera shop and my Sony α7R IV is going to have to have its whole main circuit board replaced, for not much less than a new α6400. 😣 The issue doesn’t seem to be widespread, so I just got hit by the vagaries of hardware failure. _«sigh»_\n",
+				"date_published": "2023-01-28T16:30:18-07:00",
+				"url": "https://v1.microblog.chriskrycho.com/2023/01/28/ugghggghhh-just-heard.html"
+			},
+			{
 				"id": "http://chriskrycho.micro.blog/2023/01/27/all-right-folks.html",
 				
 				"content_html": "<p>All right, folks: who among you out there is on Strava, Garmin Connect, or Zwift? Would love to interact with more folks there! I&rsquo;m on each of those respectively:</p>\n<ul>\n<li><a href=\"https://www.strava.com/athletes/chriskrycho\">Strava</a></li>\n<li><a href=\"https://connect.garmin.com/modern/profile/chriskrycho\">Garmin</a></li>\n<li><a href=\"https://www.zwift.com/athlete/9b37f91b-8255-4e89-bbc8-85e42813f7c4\">Zwift</a></li>\n</ul>\n",

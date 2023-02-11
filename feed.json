@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://chriskrycho.micro.blog/2023/02/08/so-today-is.html",
+				
+				"content_html": "<p>So today is the day I got to learn a whole bunch about how cgroups work and what <code>memory.stat</code> and related files show and all sorts of other fun things in the space called “How containers work on Linux.”</p>\n<p>Upside: learning is fun!</p>\n<p>Downside: the context is not fun!</p>\n<p>😂</p>\n",
+				"content_text": "So today is the day I got to learn a whole bunch about how cgroups work and what `memory.stat` and related files show and all sorts of other fun things in the space called “How containers work on Linux.”\n\nUpside: learning is fun!\n\nDownside: the context is not fun!\n\n😂\n",
+				"date_published": "2023-02-08T12:49:02-07:00",
+				"url": "https://v1.microblog.chriskrycho.com/2023/02/08/so-today-is.html"
+			},
+			{
 				"id": "http://chriskrycho.micro.blog/2023/02/04/so-apparently-the.html",
 				
 				"content_html": "<p>So <a href=\"https://www.dcrainmaker.com/2021/06/garmin-training-status-now-includes-zwift-trainerroad-the-sufferfest-and-tacx-app-workouts.html\">apparently</a> the way to get the <em>best</em> results from a mixed Garmin/Zwift/Strava setup is:</p>\n<ol>\n<li>Connect all your devices to Zwift.</li>\n<li><em>Don’t</em> actually start recording on your Garmin.</li>\n<li>Sync: Zwift → Garmin Connect → watch → Garmin Connect.</li>\n</ol>\n<p>Slightly bonkers, but… now at least I know.</p>\n",
@@ -130,7 +138,7 @@
 				"id": "http://chriskrycho.micro.blog/2023/01/12/my-wife-ordered.html",
 				
 				"content_html": "<p>My wife ordered me the LEGO Saturn V model for a Christmas present, and it finally arrived yesterday. Doing this is: unreasonably fun.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "My wife ordered me the LEGO Saturn V model for a Christmas present, and it finally arrived yesterday. Doing this is: unreasonably fun.\n\n<img src=\"uploads/2023/dfc3ec006d.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/08e208e29f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "My wife ordered me the LEGO Saturn V model for a Christmas present, and it finally arrived yesterday. Doing this is: unreasonably fun.\n\n<img src=\"https://v1.microblog.chriskrycho.com/uploads/2023/dfc3ec006d.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://v1.microblog.chriskrycho.com/uploads/2023/08e208e29f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-12T08:40:37-07:00",
 				"url": "https://v1.microblog.chriskrycho.com/2023/01/12/my-wife-ordered.html"
 			},
@@ -178,7 +186,7 @@
 				"id": "http://chriskrycho.micro.blog/2023/01/07/while-obsidians-graph.html",
 				
 				"content_html": "<p>While Obsidian&rsquo;s graph view is pretty, and you <em>can</em> make it more useful than the baseline,<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup> fundamentally, if you make heavy use of links, you just end up with a mess like this. 😂</p>\n<!-- raw HTML omitted -->\n<section class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\" role=\"doc-endnote\">\n<p>Local graphs are more useful than the global graph; filters can be illuminating, etc.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</section>\n",
-				"content_text": "While Obsidian's graph view is pretty, and you *can* make it more useful than the baseline,[^1] fundamentally, if you make heavy use of links, you just end up with a mess like this. 😂 \n\n[^1]: Local graphs are more useful than the global graph; filters can be illuminating, etc.\n\n<img src=\"uploads/2023/40f6443e72.png\" width=\"595\" height=\"600\" alt=\"A screenshot of an Obsidian notes graph with highly clustered and dense links.\">\n",
+				"content_text": "While Obsidian's graph view is pretty, and you *can* make it more useful than the baseline,[^1] fundamentally, if you make heavy use of links, you just end up with a mess like this. 😂 \n\n[^1]: Local graphs are more useful than the global graph; filters can be illuminating, etc.\n\n<img src=\"https://v1.microblog.chriskrycho.com/uploads/2023/40f6443e72.png\" width=\"595\" height=\"600\" alt=\"A screenshot of an Obsidian notes graph with highly clustered and dense links.\">\n",
 				"date_published": "2023-01-07T09:54:34-07:00",
 				"url": "https://v1.microblog.chriskrycho.com/2023/01/07/while-obsidians-graph.html"
 			},
@@ -186,7 +194,7 @@
 				"id": "http://chriskrycho.micro.blog/2023/01/06/im-sort-of.html",
 				
 				"content_html": "<p>I’m sort of unreasonably delighted—which is, to be clear, the best kind of delighted—by the color of this new <a href=\"https://www.notneutral.com\">NotNeutral</a> mug (their <a href=\"https://www.notneutral.com/lino-coffee-mug.html\">10oz Lino</a> is just the best) which arrived today. 🤩</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I’m sort of unreasonably delighted—which is, to be clear, the best kind of delighted—by the color of this new [NotNeutral](https://www.notneutral.com) mug (their [10oz Lino](https://www.notneutral.com/lino-coffee-mug.html) is just the best) which arrived today. 🤩\n\n<img src=\"uploads/2023/6f56210e47.jpg\" width=\"450\" height=\"600\" alt=\"An “ozone blue” coffee mug sitting in front of a MIDI keyboard, a MacBookPro, and a large display.\">\n",
+				"content_text": "I’m sort of unreasonably delighted—which is, to be clear, the best kind of delighted—by the color of this new [NotNeutral](https://www.notneutral.com) mug (their [10oz Lino](https://www.notneutral.com/lino-coffee-mug.html) is just the best) which arrived today. 🤩\n\n<img src=\"https://v1.microblog.chriskrycho.com/uploads/2023/6f56210e47.jpg\" width=\"450\" height=\"600\" alt=\"An “ozone blue” coffee mug sitting in front of a MIDI keyboard, a MacBookPro, and a large display.\">\n",
 				"date_published": "2023-01-06T14:25:37-07:00",
 				"url": "https://v1.microblog.chriskrycho.com/2023/01/06/im-sort-of.html"
 			},
@@ -202,7 +210,7 @@
 				"id": "http://chriskrycho.micro.blog/2023/01/04/updated-my-note.html",
 				
 				"content_html": "<p>Updated <a href=\"https://v5.chriskrycho.com/journal/dorico-tip-solo-parts-in-string-sections/\">my note on doing solo lines in divisi parts in Dorico</a> this evening, after discovering a fairly key behavioral constraint!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Updated [my note on doing solo lines in divisi parts in Dorico](https://v5.chriskrycho.com/journal/dorico-tip-solo-parts-in-string-sections/) this evening, after discovering a fairly key behavioral constraint!\n\n<img src=\"uploads/2023/1117110c20.png\" width=\"600\" height=\"133\" alt=\"\">\n",
+				"content_text": "Updated [my note on doing solo lines in divisi parts in Dorico](https://v5.chriskrycho.com/journal/dorico-tip-solo-parts-in-string-sections/) this evening, after discovering a fairly key behavioral constraint!\n\n<img src=\"https://v1.microblog.chriskrycho.com/uploads/2023/1117110c20.png\" width=\"600\" height=\"133\" alt=\"\">\n",
 				"date_published": "2023-01-04T21:47:00-07:00",
 				"url": "https://v1.microblog.chriskrycho.com/2023/01/04/updated-my-note.html"
 			},

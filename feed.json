@@ -7,11 +7,35 @@
 	"items": [
 		
 			{
+				"id": "http://chriskrycho.micro.blog/2023/04/26/i-find-it.html",
+				
+				"content_html": "<p>I find it curious/odd that <em>so</em> many major fitness tools (Training Peaks, Strava, etc.) all seem to have a sort of implicit “cycling first” mentality. Is it just me? Or is that actually a thing? And if so… why?</p>\n",
+				"content_text": "I find it curious/odd that *so* many major fitness tools (Training Peaks, Strava, etc.) all seem to have a sort of implicit “cycling first” mentality. Is it just me? Or is that actually a thing? And if so… why?\n",
+				"date_published": "2023-04-26T08:12:44-06:00",
+				"url": "https://v1.microblog.chriskrycho.com/2023/04/26/i-find-it.html"
+			},
+			{
+				"id": "http://chriskrycho.micro.blog/2023/02/22/i-am-off.html",
+				
+				"content_html": "<p>I am off of social media throughout Lent. I may return after Easter.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I am off of social media throughout Lent. I may return after Easter.\n\n<img src=\"uploads/2023/abded3a366.png\" width=\"600\" height=\"337\" alt=\"The Collect for Ash Wednesday: “Almighty and everlasting God, you hate nothing you have made, and you forgive the sins of all who are penitent: Create and make in us new and contrite hearts, that we, worthily lamenting our sins and acknowledging our wretchedness, may obtain of you, the God of all mercy, perfect remission and forgiveness; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.”\">\n",
+				"date_published": "2023-02-22T09:21:50-06:00",
+				"url": "https://v1.microblog.chriskrycho.com/2023/02/22/i-am-off.html"
+			},
+			{
+				"id": "http://chriskrycho.micro.blog/2023/02/19/reminded-once-again.html",
+				
+				"content_html": "<p>Reminded once again that whenever you see a popular treatment of a science paper, you should click through and read the paper&rsquo;s own abstract, because it&rsquo;s incredibly likely that the popular presentation is somwhere between “mildly misleading” to “literally the opposite of that”.</p>\n",
+				"content_text": "Reminded once again that whenever you see a popular treatment of a science paper, you should click through and read the paper's own abstract, because it's incredibly likely that the popular presentation is somwhere between “mildly misleading” to “literally the opposite of that”.\n",
+				"date_published": "2023-02-19T18:21:39-06:00",
+				"url": "https://v1.microblog.chriskrycho.com/2023/02/19/reminded-once-again.html"
+			},
+			{
 				"id": "http://chriskrycho.micro.blog/2023/02/19/a-great-annoyance.html",
 				
 				"content_html": "<p>A great annoyance: Strava absolutely insists on rerouting a GPX file you import to create a route. (It&rsquo;ll do it from activities, too.) No, Strava, your routing algorithm is not smarter than the half hour I took carefully mapping out this half marathon course. <em>‹sigh›</em></p>\n",
 				"content_text": "A great annoyance: Strava absolutely insists on rerouting a GPX file you import to create a route. (It'll do it from activities, too.) No, Strava, your routing algorithm is not smarter than the half hour I took carefully mapping out this half marathon course. *‹sigh›*\n",
-				"date_published": "2023-02-19T10:08:31-07:00",
+				"date_published": "2023-02-19T11:08:31-06:00",
 				"url": "https://v1.microblog.chriskrycho.com/2023/02/19/a-great-annoyance.html"
 			},
 			{
@@ -19,7 +43,7 @@
 				
 				"content_html": "<p>Just created <a href=\"https://github.com/chriskrycho/octane-migration-guides\">a repo</a> with the migration guides we used in converting LinkedIn’s flagship app (almost certainly the largest <a href=\"https://emberjs.com\">Ember</a> app in the world) to Octane, as well as a 1-page PDF explaining the benefits for management.</p>\n",
 				"content_text": "Just created [a repo](https://github.com/chriskrycho/octane-migration-guides) with the migration guides we used in converting LinkedIn’s flagship app (almost certainly the largest [Ember](https://emberjs.com) app in the world) to Octane, as well as a 1-page PDF explaining the benefits for management.\n",
-				"date_published": "2023-02-15T07:28:11-07:00",
+				"date_published": "2023-02-15T08:28:11-06:00",
 				"url": "https://v1.microblog.chriskrycho.com/2023/02/15/just-created-a.html"
 			},
 			{
@@ -27,7 +51,7 @@
 				
 				"content_html": "<p>Started working through the <a href=\"https://www.unison-lang.org\">Unison</a> docs in earnest today (a thing I&rsquo;ve been wanting to do for a <em>while</em>). I am taking notes as I work through <a href=\"https://www.unison-lang.org/learn/tour/\">the language tour</a> and their related docs, and… it really does feel like there is something special here.</p>\n",
 				"content_text": "Started working through the [Unison](https://www.unison-lang.org) docs in earnest today (a thing I've been wanting to do for a *while*). I am taking notes as I work through [the language tour](https://www.unison-lang.org/learn/tour/) and their related docs, and… it really does feel like there is something special here.\n",
-				"date_published": "2023-02-11T17:09:54-07:00",
+				"date_published": "2023-02-11T18:09:54-06:00",
 				"url": "https://v1.microblog.chriskrycho.com/2023/02/11/started-working-through.html"
 			},
 			{
@@ -35,7 +59,7 @@
 				
 				"content_html": "<p>So today is the day I got to learn a whole bunch about how cgroups work and what <code>memory.stat</code> and related files show and all sorts of other fun things in the space called “How containers work on Linux.”</p>\n<p>Upside: learning is fun!</p>\n<p>Downside: the context is not fun!</p>\n<p>😂</p>\n",
 				"content_text": "So today is the day I got to learn a whole bunch about how cgroups work and what `memory.stat` and related files show and all sorts of other fun things in the space called “How containers work on Linux.”\n\nUpside: learning is fun!\n\nDownside: the context is not fun!\n\n😂\n",
-				"date_published": "2023-02-08T12:49:02-07:00",
+				"date_published": "2023-02-08T13:49:02-06:00",
 				"url": "https://v1.microblog.chriskrycho.com/2023/02/08/so-today-is.html"
 			},
 			{
@@ -43,7 +67,7 @@
 				
 				"content_html": "<p>So <a href=\"https://www.dcrainmaker.com/2021/06/garmin-training-status-now-includes-zwift-trainerroad-the-sufferfest-and-tacx-app-workouts.html\">apparently</a> the way to get the <em>best</em> results from a mixed Garmin/Zwift/Strava setup is:</p>\n<ol>\n<li>Connect all your devices to Zwift.</li>\n<li><em>Don’t</em> actually start recording on your Garmin.</li>\n<li>Sync: Zwift → Garmin Connect → watch → Garmin Connect.</li>\n</ol>\n<p>Slightly bonkers, but… now at least I know.</p>\n",
 				"content_text": "So [apparently](https://www.dcrainmaker.com/2021/06/garmin-training-status-now-includes-zwift-trainerroad-the-sufferfest-and-tacx-app-workouts.html) the way to get the *best* results from a mixed Garmin/Zwift/Strava setup is:\n\n1. Connect all your devices to Zwift.\n2. *Don’t* actually start recording on your Garmin.\n3. Sync: Zwift → Garmin Connect → watch → Garmin Connect.\n\nSlightly bonkers, but… now at least I know.\n",
-				"date_published": "2023-02-04T11:18:29-07:00",
+				"date_published": "2023-02-04T12:18:29-06:00",
 				"url": "https://v1.microblog.chriskrycho.com/2023/02/04/so-apparently-the.html"
 			},
 			{
@@ -51,7 +75,7 @@
 				
 				"content_html": "<p>I checked what Apple would off for a trade-in if I decided to upgrade from M1 Max to M2 Max—more from sheer curiosity than any intent to do that; my current laptop is still phenomenal—and it&rsquo;s <em>shamefully</em> low: a $1,235 trade-in for a machine sold for ~$4,099 15 months ago? <em><strong>No.</strong></em></p>\n",
 				"content_text": "I checked what Apple would off for a trade-in if I decided to upgrade from M1 Max to M2 Max—more from sheer curiosity than any intent to do that; my current laptop is still phenomenal—and it's *shamefully* low: a $1,235 trade-in for a machine sold for ~$4,099 15 months ago? ***No.***\n",
-				"date_published": "2023-01-29T20:26:57-07:00",
+				"date_published": "2023-01-29T21:26:57-06:00",
 				"url": "https://v1.microblog.chriskrycho.com/2023/01/29/i-checked-what.html"
 			},
 			{
@@ -59,7 +83,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780996049900\"><em>The Anglican Way</em></a> by Thomas McKenzie 📚 – an easy introduction to Anglican-ism for folks outside the tradition. Very little here was new to me (I have an M. Div. and the history classes were good!) but I&rsquo;d recommend it to curious or confused lay folk.</p>\n",
 				"content_text": "Finished reading: [_The Anglican Way_](https://micro.blog/books/9780996049900) by Thomas McKenzie 📚 – an easy introduction to Anglican-ism for folks outside the tradition. Very little here was new to me (I have an M. Div. and the history classes were good!) but I'd recommend it to curious or confused lay folk.\n",
-				"date_published": "2023-01-29T12:30:16-07:00",
+				"date_published": "2023-01-29T13:30:16-06:00",
 				"url": "https://v1.microblog.chriskrycho.com/2023/01/29/finished-reading-the.html"
 			},
 			{
@@ -67,7 +91,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780735243354\"><em>Tomorrow, and Tomorrow, and Tomorrow</em></a> by Gabrielle Zevin 📚</p>\n<p>I have not read a lot of gooks in this genre/space of contemporary fiction about contemporary people—I tend to go in for nonfiction or sci-fi/fantasy. But I am glad I did: It is <em>quite good</em>.</p>\n",
 				"content_text": "Finished reading: [_Tomorrow, and Tomorrow, and Tomorrow_](https://micro.blog/books/9780735243354) by Gabrielle Zevin 📚\n\nI have not read a lot of gooks in this genre/space of contemporary fiction about contemporary people—I tend to go in for nonfiction or sci-fi/fantasy. But I am glad I did: It is *quite good*.\n",
-				"date_published": "2023-01-28T20:55:32-07:00",
+				"date_published": "2023-01-28T21:55:32-06:00",
 				"url": "https://v1.microblog.chriskrycho.com/2023/01/28/finished-reading-tomorrow.html"
 			},
 			{
@@ -75,7 +99,7 @@
 				
 				"content_html": "<p>It strikes me: In the amount of time I&rsquo;ve spent working around quirks in my current static site generator engine plus the amount of time I&rsquo;ve spent <em>waiting around for it</em> because of its slow design and not-great data structure choices, I&rsquo;m quite sure I could have written my own.</p>\n<p>That isn’t to discredit the folks behind the tech I’m currently using (I didn’t name it apurpose!) so much as to affirm <a href=\"https://micro.blog/brandur\">@brandur</a>&rsquo;s point <a href=\"https://brandur.org/aws-intrinsic-static\">many years ago</a>:</p>\n<blockquote>\n<p>I’ve found that assembling my own static site generation script takes about the same amount of time as getting on-boarded with any of the major site generation frameworks. This isn’t as much a critique of them as it is a nod to the inevitability of any general-purpose project to expand in features until it takes a lot of documentation and false starts to get up to speed. Writing your own script may be a greater maintenance burden over the long run, but this is offset by the much improved flexibility that it gets you.</p>\n</blockquote>\n",
 				"content_text": "It strikes me: In the amount of time I've spent working around quirks in my current static site generator engine plus the amount of time I've spent *waiting around for it* because of its slow design and not-great data structure choices, I'm quite sure I could have written my own.\n\nThat isn’t to discredit the folks behind the tech I’m currently using (I didn’t name it apurpose!) so much as to affirm [@brandur](https://micro.blog/brandur)'s point [many years ago](https://brandur.org/aws-intrinsic-static):\n\n> I’ve found that assembling my own static site generation script takes about the same amount of time as getting on-boarded with any of the major site generation frameworks. This isn’t as much a critique of them as it is a nod to the inevitability of any general-purpose project to expand in features until it takes a lot of documentation and false starts to get up to speed. Writing your own script may be a greater maintenance burden over the long run, but this is offset by the much improved flexibility that it gets you.\n",
-				"date_published": "2023-01-28T17:01:44-07:00",
+				"date_published": "2023-01-28T18:01:44-06:00",
 				"url": "https://v1.microblog.chriskrycho.com/2023/01/28/it-strikes-me.html"
 			},
 			{
@@ -83,7 +107,7 @@
 				
 				"content_html": "<p>Ugghggghhh. Just heard back from the camera shop and my Sony α7R IV is going to have to have its whole main circuit board replaced, for not much less than a new α6400. 😣 The issue doesn’t seem to be widespread, so I just got hit by the vagaries of hardware failure. <em>«sigh»</em></p>\n",
 				"content_text": "Ugghggghhh. Just heard back from the camera shop and my Sony α7R IV is going to have to have its whole main circuit board replaced, for not much less than a new α6400. 😣 The issue doesn’t seem to be widespread, so I just got hit by the vagaries of hardware failure. _«sigh»_\n",
-				"date_published": "2023-01-28T16:30:18-07:00",
+				"date_published": "2023-01-28T17:30:18-06:00",
 				"url": "https://v1.microblog.chriskrycho.com/2023/01/28/ugghggghhh-just-heard.html"
 			},
 			{
@@ -91,7 +115,7 @@
 				
 				"content_html": "<p>All right, folks: who among you out there is on Strava, Garmin Connect, or Zwift? Would love to interact with more folks there! I&rsquo;m on each of those respectively:</p>\n<ul>\n<li><a href=\"https://www.strava.com/athletes/chriskrycho\">Strava</a></li>\n<li><a href=\"https://connect.garmin.com/modern/profile/chriskrycho\">Garmin</a></li>\n<li><a href=\"https://www.zwift.com/athlete/9b37f91b-8255-4e89-bbc8-85e42813f7c4\">Zwift</a></li>\n</ul>\n",
 				"content_text": "All right, folks: who among you out there is on Strava, Garmin Connect, or Zwift? Would love to interact with more folks there! I'm on each of those respectively:\n\n- [Strava](https://www.strava.com/athletes/chriskrycho)\n- [Garmin](https://connect.garmin.com/modern/profile/chriskrycho)\n- [Zwift](https://www.zwift.com/athlete/9b37f91b-8255-4e89-bbc8-85e42813f7c4)\n",
-				"date_published": "2023-01-27T07:03:08-07:00",
+				"date_published": "2023-01-27T08:03:08-06:00",
 				"url": "https://v1.microblog.chriskrycho.com/2023/01/27/all-right-folks.html"
 			},
 			{
@@ -99,7 +123,7 @@
 				
 				"content_html": "<p>Starting on <a href=\"https://micro.blog/books/9780735243354\"><em>Tomorrow, and Tomorrow, and Tomorrow</em></a> by Gabrielle Zevin this evening. 📚 When one of my best friends and <a href=\"https://www.robinsloan.com\">Robin Sloan</a>—two wonderful people who are also very different from each other in reading habits—both <em>gush</em> about a book, it goes on my list.</p>\n",
 				"content_text": "Starting on [_Tomorrow, and Tomorrow, and Tomorrow_](https://micro.blog/books/9780735243354) by Gabrielle Zevin this evening. 📚 When one of my best friends and [Robin Sloan](https://www.robinsloan.com)—two wonderful people who are also very different from each other in reading habits—both *gush* about a book, it goes on my list.\n",
-				"date_published": "2023-01-22T19:56:12-07:00",
+				"date_published": "2023-01-22T20:56:12-06:00",
 				"url": "https://v1.microblog.chriskrycho.com/2023/01/22/starting-on-tomorrow.html"
 			},
 			{
@@ -107,7 +131,7 @@
 				
 				"content_html": "<p>It is driving me absolutely bonkers not having my good camera (my 3-year-old Sony α7R IV, the sensor of which went bad late in November). I’m still just waiting to hear what I&rsquo;m in for to have the sensor repaired, and had no idea how often I reach for it until it was absent. 😩</p>\n",
 				"content_text": "It is driving me absolutely bonkers not having my good camera (my 3-year-old Sony α7R IV, the sensor of which went bad late in November). I’m still just waiting to hear what I'm in for to have the sensor repaired, and had no idea how often I reach for it until it was absent. 😩\n",
-				"date_published": "2023-01-22T19:53:25-07:00",
+				"date_published": "2023-01-22T20:53:25-06:00",
 				"url": "https://v1.microblog.chriskrycho.com/2023/01/22/it-is-driving.html"
 			},
 			{
@@ -115,7 +139,7 @@
 				
 				"content_html": "<p>It&rsquo;s been several weeks now and I have decided that <a href=\"https://readwise.io\">Readwise</a> is <em>more than</em> worth the annual subscription cost, so I have gone ahead and signed up. Glad for services like that to exist, and—equally!—glad for a straightforward business model.</p>\n",
 				"content_text": "It's been several weeks now and I have decided that [Readwise](https://readwise.io) is *more than* worth the annual subscription cost, so I have gone ahead and signed up. Glad for services like that to exist, and—equally!—glad for a straightforward business model.\n",
-				"date_published": "2023-01-22T19:49:46-07:00",
+				"date_published": "2023-01-22T20:49:46-06:00",
 				"url": "https://v1.microblog.chriskrycho.com/2023/01/22/its-been-several.html"
 			},
 			{
@@ -123,7 +147,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780525558613\"><em>Human Compatible: Artificial Intelligence and the Problem of Control</em></a> by Stuart Russell 📚 – I’ll likely have more to say about this in the weeks ahead, but for now I’ll summarize with two thoughts:</p>\n<ol>\n<li>The problems matter.</li>\n<li>We need non-utilitarians going after this.</li>\n</ol>\n",
 				"content_text": "Finished reading: [_Human Compatible: Artificial Intelligence and the Problem of Control_](https://micro.blog/books/9780525558613) by Stuart Russell 📚 – I’ll likely have more to say about this in the weeks ahead, but for now I’ll summarize with two thoughts:\r\n\r\n1. The problems matter.\r\n2. We need non-utilitarians going after this.\r\n",
-				"date_published": "2023-01-22T10:56:57-07:00",
+				"date_published": "2023-01-22T11:56:57-06:00",
 				"url": "https://v1.microblog.chriskrycho.com/2023/01/22/finished-reading-human.html"
 			},
 			{
@@ -131,7 +155,7 @@
 				
 				"content_html": "<p>Blogged—because I’d love for the process of building a training plan for running and cycling to respect how human lives actually work, which is to say: days are way more fungible than weeks (at least for an amateur like me)! <a href=\"https://v5.chriskrycho.com/journal/feature-idea-week-level-training-plans/\">Feature Idea: Week-Level Smart Training Plans</a></p>\n",
 				"content_text": "Blogged—because I’d love for the process of building a training plan for running and cycling to respect how human lives actually work, which is to say: days are way more fungible than weeks (at least for an amateur like me)! [Feature Idea: Week-Level Smart Training Plans](https://v5.chriskrycho.com/journal/feature-idea-week-level-training-plans/)\n",
-				"date_published": "2023-01-16T08:37:46-07:00",
+				"date_published": "2023-01-16T09:37:46-06:00",
 				"url": "https://v1.microblog.chriskrycho.com/2023/01/16/bloggedbecause-id-love.html"
 			},
 			{
@@ -139,7 +163,7 @@
 				
 				"content_html": "<p>Whoa: Strava informs me that last year I crossed the 10,000 lifetime miles run mark, as well as the 1,500 lifetime hours mark—and I’m probably a month’s training away from crossing 500,000 feet of lifetime climbing on my runs. 🤯 🏃🏻‍♂️</p>\n",
 				"content_text": "Whoa: Strava informs me that last year I crossed the 10,000 lifetime miles run mark, as well as the 1,500 lifetime hours mark—and I’m probably a month’s training away from crossing 500,000 feet of lifetime climbing on my runs. 🤯 🏃🏻‍♂️\n",
-				"date_published": "2023-01-13T14:04:50-07:00",
+				"date_published": "2023-01-13T15:04:50-06:00",
 				"url": "https://v1.microblog.chriskrycho.com/2023/01/13/whoa-strava-informs.html"
 			},
 			{
@@ -147,7 +171,7 @@
 				
 				"content_html": "<p>I am trying something out: some <a href=\"https://v5.chriskrycho.com/journal/blog-gardening-in-public/\">Blog-Gardening in Public</a>, i.e. working-in-public on (some) of my bigger essays and idea-pieces. I don&rsquo;t know of many folks doing things like this, but I hope to help normalize it, because it seems good! More thoughts <a href=\"https://v5.chriskrycho.com/journal/blog-gardening-in-public/\">here</a>.</p>\n",
 				"content_text": "I am trying something out: some [Blog-Gardening in Public](https://v5.chriskrycho.com/journal/blog-gardening-in-public/), i.e. working-in-public on (some) of my bigger essays and idea-pieces. I don't know of many folks doing things like this, but I hope to help normalize it, because it seems good! More thoughts [here](https://v5.chriskrycho.com/journal/blog-gardening-in-public/).\n",
-				"date_published": "2023-01-13T12:16:35-07:00",
+				"date_published": "2023-01-13T13:16:35-06:00",
 				"url": "https://v1.microblog.chriskrycho.com/2023/01/13/i-am-trying.html"
 			},
 			{
@@ -155,7 +179,7 @@
 				
 				"content_html": "<p>Just updated my website to make sure that, if you’re reading it <em>on the website</em>, all the things I’ve called out as “Note: …” blocks are also correctly identified as such to screen readers with <code>aria-role</code> and <code>aria-label</code>, and made it trivial to get right going forward. 🎉</p>\n",
 				"content_text": "Just updated my website to make sure that, if you’re reading it *on the website*, all the things I’ve called out as “Note: …” blocks are also correctly identified as such to screen readers with `aria-role` and `aria-label`, and made it trivial to get right going forward. 🎉\n",
-				"date_published": "2023-01-13T09:54:15-07:00",
+				"date_published": "2023-01-13T10:54:15-06:00",
 				"url": "https://v1.microblog.chriskrycho.com/2023/01/13/just-updated-my.html"
 			},
 			{
@@ -163,7 +187,7 @@
 				
 				"content_html": "<p>My wife ordered me the LEGO Saturn V model for a Christmas present, and it finally arrived yesterday. Doing this is: unreasonably fun.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "My wife ordered me the LEGO Saturn V model for a Christmas present, and it finally arrived yesterday. Doing this is: unreasonably fun.\n\n<img src=\"uploads/2023/dfc3ec006d.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/08e208e29f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-01-12T08:40:37-07:00",
+				"date_published": "2023-01-12T09:40:37-06:00",
 				"url": "https://v1.microblog.chriskrycho.com/2023/01/12/my-wife-ordered.html"
 			},
 			{
@@ -171,7 +195,7 @@
 				
 				"content_html": "<p>Blogged—<a href=\"https://v5.chriskrycho.com/journal/some-notes-on-elicit/\">some initial thoughts</a> on <a href=\"https://ought.org\">Ought</a>&rsquo;s <a href=\"https://elicit.org\">Elicit</a> “AI Research Assistant” tool, which I spent some time with this evening. If that makes your skepticism radar spike, we’re the same, but I have pretty positive impressions, courtesy of <em>wise</em> UI design choices. <a href=\"https://v5.chriskrycho.com/journal/some-notes-on-elicit/\">Initial Notes on Elicit</a></p>\n",
 				"content_text": "Blogged—[some initial thoughts][p] on [Ought](https://ought.org)'s [Elicit](https://elicit.org) “AI Research Assistant” tool, which I spent some time with this evening. If that makes your skepticism radar spike, we’re the same, but I have pretty positive impressions, courtesy of *wise* UI design choices. [Initial Notes on Elicit][p]\n\n[p]: https://v5.chriskrycho.com/journal/some-notes-on-elicit/\n",
-				"date_published": "2023-01-10T19:30:04-07:00",
+				"date_published": "2023-01-10T20:30:04-06:00",
 				"url": "https://v1.microblog.chriskrycho.com/2023/01/10/bloggedsome-initial-thoughts.html"
 			},
 			{
@@ -179,7 +203,7 @@
 				
 				"content_html": "<p>I decided I want out of the game of running my own servers for websites this year, and I’m almost done—I’m moving jaimiekrycho.com to managed WordPress hosting. Real talk: finding a host to do this in a way I trust and which doesn’t make me 🤯 at the cost is… hard.</p>\n",
 				"content_text": "I decided I want out of the game of running my own servers for websites this year, and I’m almost done—I’m moving jaimiekrycho.com to managed WordPress hosting. Real talk: finding a host to do this in a way I trust and which doesn’t make me 🤯 at the cost is… hard.\n",
-				"date_published": "2023-01-10T08:19:07-07:00",
+				"date_published": "2023-01-10T09:19:07-06:00",
 				"url": "https://v1.microblog.chriskrycho.com/2023/01/10/i-decided-i.html"
 			},
 			{
@@ -187,7 +211,7 @@
 				
 				"content_html": "<p>It only took me five years (or was it six?) to finish migrating all of my old, no-longer-updated sites out of the shared hosting I used to use (…so, you know, just an extra $300 I paid over the years 🙃) but as of today I have finally shut that account down. Feels good!</p>\n",
 				"content_text": "It only took me five years (or was it six?) to finish migrating all of my old, no-longer-updated sites out of the shared hosting I used to use (…so, you know, just an extra $300 I paid over the years 🙃) but as of today I have finally shut that account down. Feels good!\n",
-				"date_published": "2023-01-09T15:00:57-07:00",
+				"date_published": "2023-01-09T16:00:57-06:00",
 				"url": "https://v1.microblog.chriskrycho.com/2023/01/09/it-only-took.html"
 			},
 			{
@@ -195,7 +219,7 @@
 				
 				"content_html": "<p>Blogged, because I got <em>extremely</em> annoyed thinking about how this doesn&rsquo;t exist after my long run yesterday: <a href=\"https://v5.chriskrycho.com/journal/meal-tracking-for-athletes/\">Product Idea: Meal Tracking for Athletes</a>. So annoyed. 😂</p>\n",
 				"content_text": "Blogged, because I got *extremely* annoyed thinking about how this doesn't exist after my long run yesterday: [Product Idea: Meal Tracking for Athletes](https://v5.chriskrycho.com/journal/meal-tracking-for-athletes/). So annoyed. 😂 \n\n",
-				"date_published": "2023-01-09T14:40:39-07:00",
+				"date_published": "2023-01-09T15:40:39-06:00",
 				"url": "https://v1.microblog.chriskrycho.com/2023/01/09/blogged-because-i.html"
 			},
 			{
@@ -203,7 +227,7 @@
 				
 				"content_html": "<p>Just published: a note on how lovely it is to have (more or less) what I always said I wanted back in high school and college—<a href=\"https://v5.chriskrycho.com/journal/an-orchestra-in-my-pocket/\">an orchestra in my pocket</a>.</p>\n",
 				"content_text": "Just published: a note on how lovely it is to have (more or less) what I always said I wanted back in high school and college—[an orchestra in my pocket](https://v5.chriskrycho.com/journal/an-orchestra-in-my-pocket/).\n",
-				"date_published": "2023-01-07T17:43:58-07:00",
+				"date_published": "2023-01-07T18:43:58-06:00",
 				"url": "https://v1.microblog.chriskrycho.com/2023/01/07/just-published-a.html"
 			},
 			{
@@ -211,7 +235,7 @@
 				
 				"content_html": "<p>While Obsidian&rsquo;s graph view is pretty, and you <em>can</em> make it more useful than the baseline,<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup> fundamentally, if you make heavy use of links, you just end up with a mess like this. 😂</p>\n<!-- raw HTML omitted -->\n<section class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\" role=\"doc-endnote\">\n<p>Local graphs are more useful than the global graph; filters can be illuminating, etc.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</section>\n",
 				"content_text": "While Obsidian's graph view is pretty, and you *can* make it more useful than the baseline,[^1] fundamentally, if you make heavy use of links, you just end up with a mess like this. 😂 \n\n[^1]: Local graphs are more useful than the global graph; filters can be illuminating, etc.\n\n<img src=\"uploads/2023/40f6443e72.png\" width=\"595\" height=\"600\" alt=\"A screenshot of an Obsidian notes graph with highly clustered and dense links.\">\n",
-				"date_published": "2023-01-07T09:54:34-07:00",
+				"date_published": "2023-01-07T10:54:34-06:00",
 				"url": "https://v1.microblog.chriskrycho.com/2023/01/07/while-obsidians-graph.html"
 			},
 			{
@@ -219,7 +243,7 @@
 				
 				"content_html": "<p>I’m sort of unreasonably delighted—which is, to be clear, the best kind of delighted—by the color of this new <a href=\"https://www.notneutral.com\">NotNeutral</a> mug (their <a href=\"https://www.notneutral.com/lino-coffee-mug.html\">10oz Lino</a> is just the best) which arrived today. 🤩</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "I’m sort of unreasonably delighted—which is, to be clear, the best kind of delighted—by the color of this new [NotNeutral](https://www.notneutral.com) mug (their [10oz Lino](https://www.notneutral.com/lino-coffee-mug.html) is just the best) which arrived today. 🤩\n\n<img src=\"uploads/2023/6f56210e47.jpg\" width=\"450\" height=\"600\" alt=\"An “ozone blue” coffee mug sitting in front of a MIDI keyboard, a MacBookPro, and a large display.\">\n",
-				"date_published": "2023-01-06T14:25:37-07:00",
+				"date_published": "2023-01-06T15:25:37-06:00",
 				"url": "https://v1.microblog.chriskrycho.com/2023/01/06/im-sort-of.html"
 			},
 			{
@@ -227,7 +251,7 @@
 				
 				"content_html": "<p>Finally able to spend some time with <a href=\"https://www.steinberg.net/dorico/\">Dorico</a> v4.3 and I love that in addition to all the feature improvements it landed, it also got some love in terms of just little bits of polish—e.g. the popovers are all just a little bit nicer-looking.</p>\n",
 				"content_text": "Finally able to spend some time with [Dorico](https://www.steinberg.net/dorico/) v4.3 and I love that in addition to all the feature improvements it landed, it also got some love in terms of just little bits of polish—e.g. the popovers are all just a little bit nicer-looking.\n",
-				"date_published": "2023-01-05T12:20:25-07:00",
+				"date_published": "2023-01-05T13:20:25-06:00",
 				"url": "https://v1.microblog.chriskrycho.com/2023/01/05/finally-able-to.html"
 			},
 			{
@@ -235,7 +259,7 @@
 				
 				"content_html": "<p>Updated <a href=\"https://v5.chriskrycho.com/journal/dorico-tip-solo-parts-in-string-sections/\">my note on doing solo lines in divisi parts in Dorico</a> this evening, after discovering a fairly key behavioral constraint!</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Updated [my note on doing solo lines in divisi parts in Dorico](https://v5.chriskrycho.com/journal/dorico-tip-solo-parts-in-string-sections/) this evening, after discovering a fairly key behavioral constraint!\n\n<img src=\"uploads/2023/1117110c20.png\" width=\"600\" height=\"133\" alt=\"\">\n",
-				"date_published": "2023-01-04T21:47:00-07:00",
+				"date_published": "2023-01-04T22:47:00-06:00",
 				"url": "https://v1.microblog.chriskrycho.com/2023/01/04/updated-my-note.html"
 			},
 			{
@@ -243,7 +267,7 @@
 				
 				"content_html": "<p>Just published <a href=\"https://v5.chriskrycho.com/journal/generative-work-and-productive-puttering/\">a new write-up</a> on the difference between doing things like “restructuring your notes system” (puttering, even if productive) and “actually working on the essay your notes are theoretically for” (generative work).</p>\n",
 				"content_text": "Just published [a new write-up](https://v5.chriskrycho.com/journal/generative-work-and-productive-puttering/) on the difference between doing things like “restructuring your notes system” (puttering, even if productive) and “actually working on the essay your notes are theoretically for” (generative work).\n",
-				"date_published": "2023-01-04T09:08:22-07:00",
+				"date_published": "2023-01-04T10:08:22-06:00",
 				"url": "https://v1.microblog.chriskrycho.com/2023/01/04/just-published-a.html"
 			},
 			{
@@ -251,7 +275,7 @@
 				
 				"content_html": "<p>As mentioned earlier, I’m quite bullish on <a href=\"https://readwise.io/i/chris4201u\">Readwise</a> and its Reader so far—but I have some pretty significant differences with the folks behind it philosophically… as I cover in <a href=\"https://readwise.io/reader/shared/01gnxbcjfm97fyn4jyeq4msq54/\">this Readwise Reader-annotated</a> version of their Reader manifesto. 😏</p>\n",
 				"content_text": "As mentioned earlier, I’m quite bullish on [Readwise](https://readwise.io/i/chris4201u) and its Reader so far—but I have some pretty significant differences with the folks behind it philosophically… as I cover in [this Readwise Reader-annotated](https://readwise.io/reader/shared/01gnxbcjfm97fyn4jyeq4msq54/) version of their Reader manifesto. 😏\n",
-				"date_published": "2023-01-03T20:50:15-07:00",
+				"date_published": "2023-01-03T21:50:15-06:00",
 				"url": "https://v1.microblog.chriskrycho.com/2023/01/03/as-mentioned-earlier.html"
 			},
 			{
@@ -259,7 +283,7 @@
 				
 				"content_html": "<p>Pretty strong first impressions here right out of the gate for <a href=\"https://readwise.io/i/chris4201u\">Readwise</a>—its <a href=\"https://readwise.io/obsidian_export\">Obsidian integration</a> in particular is pretty neat, and I think will solve an annoyance I have had for a <em>long</em> time with any “web clipping”/bookmarking system: its disconnect form my notes.</p>\n",
 				"content_text": "Pretty strong first impressions here right out of the gate for [Readwise](https://readwise.io/i/chris4201u)—its [Obsidian integration](https://readwise.io/obsidian_export) in particular is pretty neat, and I think will solve an annoyance I have had for a *long* time with any “web clipping”/bookmarking system: its disconnect form my notes.\n",
-				"date_published": "2023-01-03T11:13:53-07:00",
+				"date_published": "2023-01-03T12:13:53-06:00",
 				"url": "https://v1.microblog.chriskrycho.com/2023/01/03/pretty-strong-first.html"
 			},
 			{
@@ -267,7 +291,7 @@
 				
 				"content_html": "<p>The one thing I would <em>very</em> much like from <a href=\"https://help.kobo.com/hc/en-us/articles/360017763753-Use-the-Pocket-App-with-your-Kobo-eReader\">the Kobo–Pocket integration</a> is: the ability to use the Kobo highlighting to sync highlights to Pocket. (Or to save them locally!) Yes, that would require a Pocket subscription, but it would still be <em>excellent</em>.</p>\n",
 				"content_text": "The one thing I would *very* much like from [the Kobo–Pocket integration](https://help.kobo.com/hc/en-us/articles/360017763753-Use-the-Pocket-App-with-your-Kobo-eReader) is: the ability to use the Kobo highlighting to sync highlights to Pocket. (Or to save them locally!) Yes, that would require a Pocket subscription, but it would still be *excellent*.\n",
-				"date_published": "2023-01-03T09:38:58-07:00",
+				"date_published": "2023-01-03T10:38:58-06:00",
 				"url": "https://v1.microblog.chriskrycho.com/2023/01/03/the-one-thing.html"
 			},
 			{
@@ -275,7 +299,7 @@
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780525558613\">Human Compatible: Artificial Intelligence and the Problem of Control</a> by Stuart Russell 📚</p>\n<p>I&rsquo;ve been reading widely in this space for quite some time, but decided I need to brush up onn some of the <em>books</em> in the field, not just essays and blog posts.</p>\n",
 				"content_text": "Currently reading: [Human Compatible: Artificial Intelligence and the Problem of Control](https://micro.blog/books/9780525558613) by Stuart Russell 📚\n\nI've been reading widely in this space for quite some time, but decided I need to brush up onn some of the *books* in the field, not just essays and blog posts.\n",
-				"date_published": "2023-01-02T21:54:55-07:00",
+				"date_published": "2023-01-02T22:54:55-06:00",
 				"url": "https://v1.microblog.chriskrycho.com/2023/01/02/currently-reading-human.html"
 			},
 			{
@@ -283,7 +307,7 @@
 				
 				"content_html": "<p>One thing I’ve thought about for the past few years: AFAICT <em>no one</em> clicks through the links I cross-post via RSS feed (of the shape <code>[Journal]: some title</code>). Should I do a little micro.blog “post” introducing and linking it instead? Curious what you good folks think.</p>\n",
 				"content_text": "One thing I’ve thought about for the past few years: AFAICT *no one* clicks through the links I cross-post via RSS feed (of the shape `[Journal]: some title`). Should I do a little micro.blog “post” introducing and linking it instead? Curious what you good folks think.\n",
-				"date_published": "2023-01-02T15:49:33-07:00",
+				"date_published": "2023-01-02T16:49:33-06:00",
 				"url": "https://v1.microblog.chriskrycho.com/2023/01/02/one-thing-ive.html"
 			},
 			{
@@ -291,7 +315,7 @@
 				
 				"content_html": "<p>I believe the normal first post on a new micro.blog is “Hello, world!” Or maybe that’s <em>just</em> the first program? Well, either way, here I am: new microblog, hosted on micro.blog.</p>\n",
 				"content_text": "I believe the normal first post on a new micro.blog is “Hello, world!” Or maybe that’s *just* the first program? Well, either way, here I am: new microblog, hosted on micro.blog.\n\n",
-				"date_published": "2023-01-02T14:36:27-07:00",
+				"date_published": "2023-01-02T15:36:27-06:00",
 				"url": "https://v1.microblog.chriskrycho.com/2023/01/02/i-believe-the.html"
 			}
 	]
